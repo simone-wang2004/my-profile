@@ -1,0 +1,27 @@
+@import url @import url("https://fonts-googleapis.com/css2?family=open&family=Roboto+Condensed&display=swap");
+
+@import url ("components/container.css");
+
+@import urL ("components/avatar.css");
+
+@import urL ("components/button.css");
+
+@import urL ("components/banner.css");
+
+@import url ("components/card.css") =|
+
+body{  
+font-family: open, sans-serif;     
+margin: 0px;
+font-size: 20px;
+}
+
+
+h1,h2, h3 { 
+	font-family:"Roboto",sans-serif;
+	font-weight: bolder;
+
+}
+a {
+	text-decoration: none ;
+}
